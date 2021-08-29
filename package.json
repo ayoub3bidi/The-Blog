@@ -1,0 +1,23 @@
+{
+  "name": "the-blog",
+  "version": "1.0.0",
+  "description": "my first try",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayoub3bidi/The-Blog.git"
+  },
+  "author": "Ayoub Abidi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayoub3bidi/The-Blog/issues"
+  },
+  "homepage": "https://github.com/ayoub3bidi/The-Blog#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
