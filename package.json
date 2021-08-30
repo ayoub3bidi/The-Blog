@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/ayoub3bidi/The-Blog#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "lodash": "^4.17.21"
   }
 }
